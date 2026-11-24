@@ -80,4 +80,4 @@ This project is developed for educational purposes. It is not a substitute for p
 ## 👩‍💻 Author
 **Likhitha Sree**
 
-GitHub: [Your GitHub Profile]((https://github.com/likhithamadupu-netizen))
+GitHub: @https://github.com/likhithamadupu-netizen
