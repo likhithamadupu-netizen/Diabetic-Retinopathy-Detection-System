@@ -42,13 +42,13 @@ retinacare-ai/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/retinacare-ai.git
+git clone https://github.com/likhithamadupu-netizen/Diabetic-Retinopathy-Detection-System.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd retinacare-ai
+cd Diabetic-Retinopathy-Detection-System
 ```
 
 3. Install dependencies:
