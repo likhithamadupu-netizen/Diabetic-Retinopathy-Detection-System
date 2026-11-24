@@ -78,6 +78,6 @@ To promote awareness of diabetic eye complications and provide an accessible pla
 This project is developed for educational purposes. It is not a substitute for professional medical diagnosis or eye examination.
 
 ## 👩‍💻 Author
-**Your Name**
+**Likhitha Sree**
 
-GitHub: [Your GitHub Profile](https://github.com/your-username)
+GitHub: [Your GitHub Profile]((https://github.com/likhithamadupu-netizen))
